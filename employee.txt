@@ -1,0 +1,7 @@
+name- debi
+age- 24
+city- bbs
+name
+age
+salary
+dept
